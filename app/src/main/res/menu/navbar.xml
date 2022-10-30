@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Buy"
+        android:icon="@drawable/buy"
+        app:showAsAction="always"
+        android:id="@+id/buy"/>
+    <item android:title="Sell"
+        android:icon="@drawable/sell"
+        app:showAsAction="always"
+        android:id="@+id/sell"
+        />
+    <item android:title="Info"
+        android:icon="@drawable/info"
+        app:showAsAction="always"
+        android:id="@+id/info"/>
+</menu>
